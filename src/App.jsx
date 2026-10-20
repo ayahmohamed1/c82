@@ -410,7 +410,7 @@ export default function App() {
               initial={{ opacity: 0, scale: 0.85 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.8, delay: 0.15 }}
-              className="z-10 my-3 font-script text-[6.5rem] leading-none text-[#f3e3ce] drop-shadow-lg sm:text-[9.5rem]"
+              className="z-10 my-2 font-serif font-bold tracking-wide text-6xl sm:text-8xl md:text-9xl leading-tight text-[#f3e3ce] drop-shadow-lg"
             >
               Tee
             </motion.h1>
@@ -500,7 +500,7 @@ export default function App() {
                 className="mb-8 sm:mb-14 text-center"
               >
                 <h2 className="font-serif text-3xl sm:text-5xl uppercase leading-snug tracking-widest text-[#f3e3ce] drop-shadow-md">
-                  MY FAV PICS OF YOU
+                  MY FAV STICKERS
                 </h2>
               </motion.div>
 

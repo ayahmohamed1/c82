@@ -46,7 +46,7 @@ export default function GreetingHero({ name = 'Olivia', onContinue }) {
         initial={{ opacity: 0, scale: 0.9 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.7, delay: 0.15 }}
-        className="relative z-10 my-4 font-script text-7xl text-cream sm:text-8xl"
+        className="relative z-10 my-4 font-serif font-bold tracking-wide text-6xl text-cream sm:text-8xl drop-shadow-md"
       >
         {name}
       </motion.h1>
