@@ -500,7 +500,7 @@ export default function App() {
                 className="mb-8 sm:mb-14 text-center"
               >
                 <h2 className="font-serif text-3xl sm:text-5xl uppercase leading-snug tracking-widest text-[#f3e3ce] drop-shadow-md">
-                  MY FAV STICKERS
+                  OUR FAV STICKERS
                 </h2>
               </motion.div>
 
